@@ -171,7 +171,7 @@ msgstr "عامل کار"
 
 #: hashers.py:295
 msgid "checksum"
-msgstr "checksum"
+msgstr "جمع کنترلی"
 
 #: models.py:72 models.py:121
 msgid "name"
